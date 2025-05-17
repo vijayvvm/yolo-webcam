@@ -47,3 +47,5 @@ python3 webcam_detection.py
 - NumPy
 - Ultralytics YOLOv8
 - A working webcam
+
+<img width="1122" alt="image" src="https://github.com/user-attachments/assets/1d4ce181-1b80-440c-bbd3-cd1c5444bf76" />
